@@ -15,3 +15,7 @@ it('properly subtracts 2 numbers', () => {
 it('properly subtracts 2 numbers', () => {
   expect(subtract(1,5)).toBe(-4);
 })
+
+it('properly subtracts 2 numbers', () => {
+  expect(subtract(1,6)).toBe(-5);
+})
