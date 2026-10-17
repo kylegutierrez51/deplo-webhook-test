@@ -5,5 +5,5 @@ it('properly adds 2 numbers', () => {
 })
 
 it('properly subtracts 2 numbers', () => {
-  expect(add(1,2)).toBe(-1);
+  expect(subtract(1,2)).toBe(-1);
 })
