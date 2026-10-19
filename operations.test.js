@@ -34,4 +34,7 @@ describe('multiply', () => {
   it('properly multiplies 2 numbers', () => {
     expect(multiply(1,2)).toBe(2);
   })
+  it('properly multiplies 2 numbers', () => {
+    expect(multiply(1,3)).toBe(3);
+  })
 })
